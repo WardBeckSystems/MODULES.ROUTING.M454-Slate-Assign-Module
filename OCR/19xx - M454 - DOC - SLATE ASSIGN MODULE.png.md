@@ -1,5 +1,5 @@
 # 19xx - M454 - DOC - SLATE ASSIGN MODULE.png
-Wiki page: [Documents](../../../PAGES/Documents.md)
+Wiki page: [Documents](../../../../PAGES/Documents.md)
 
 
 - **Year:** unknown (unknown)
@@ -90,7 +90,7 @@ ISSUE 2
 
 ```json
 {
- "file": "Modules/ROUTING/M454/19xx - M454 - DOC - SLATE ASSIGN MODULE.png",
+ "file": "Modules/ROUTING/M454/MANUALS/19xx - M454 - DOC - SLATE ASSIGN MODULE.png",
  "sha256": "b0267212f8e0e1c791b6672937d6e67431951008cb964bbe068d3dcb00b55927",
  "kind": "doc",
  "models": [

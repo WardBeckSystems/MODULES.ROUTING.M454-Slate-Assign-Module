@@ -1,0 +1,149 @@
+{
+ "code": "M454",
+ "connector": "RTO-144",
+ "type": "M454 - Slate Assign Module",
+ "series": null,
+ "contacts": "21 contacts (P2)",
+ "verified": null,
+ "derived": false,
+ "variant_of": null,
+ "pins": [
+  {
+   "pin": "18",
+   "signal": "COMMON",
+   "kind": "ground",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M454/M454.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "19",
+   "signal": "-25 V",
+   "kind": "power",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M454/M454.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "20",
+   "signal": "COMMON",
+   "kind": "ground",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M454/M454.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "21",
+   "signal": "+25 V",
+   "kind": "power",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M454/M454.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "Y",
+   "signal": "+24 V",
+   "kind": "power",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M454/M454.rto144.json",
+   "page": 1
+  }
+ ],
+ "straps": [
+  {
+   "function": "CH ON LAMP",
+   "designation": "JMP.Z.W",
+   "from": "P2-Z",
+   "to": "P2-W"
+  },
+  {
+   "function": "CH ON GND ",
+   "designation": "JMP.X.18",
+   "from": "P2-X",
+   "to": "P2-18"
+  },
+  {
+   "function": "24V Jumper",
+   "designation": "JMP.Y.21",
+   "from": "P2-Y",
+   "to": "P2-21"
+  },
+  {
+   "function": "CH ON GND ",
+   "designation": "JMP.20.18",
+   "from": "P2-20",
+   "to": "P2-18"
+  },
+  {
+   "function": "Insert +",
+   "designation": "JMP.22.21",
+   "from": "P2-22",
+   "to": "P2-21"
+  },
+  {
+   "function": "Insert -",
+   "designation": "JMP.Z.Y",
+   "from": "P2-Z",
+   "to": "P2-Y"
+  },
+  {
+   "function": "Fader +",
+   "designation": "JMP.20.19",
+   "from": "P2-20",
+   "to": "P2-19"
+  },
+  {
+   "function": "Fader - ",
+   "designation": "JMP.X.W",
+   "from": "P2-X",
+   "to": "P2-W"
+  }
+ ],
+ "power": [
+  {
+   "rail": "VEE-AUDIO",
+   "style": "NEW",
+   "volts": -25,
+   "max_a": 0.1,
+   "supply": "P2-19",
+   "ground": "P2-20",
+   "link": 2
+  },
+  {
+   "rail": "VCC-AUDIO",
+   "style": "NEW",
+   "volts": 25,
+   "max_a": 0.2,
+   "supply": "P2-21",
+   "ground": "P2-20",
+   "link": 1
+  },
+  {
+   "rail": "VCC-LOGIC",
+   "style": "NEW",
+   "volts": 24,
+   "max_a": 0.1,
+   "supply": "P2-Y",
+   "ground": "P2-18",
+   "link": null
+  }
+ ],
+ "sources": [
+  "Engineering/RTO-144/M454/M454.rto144.json"
+ ]
+}

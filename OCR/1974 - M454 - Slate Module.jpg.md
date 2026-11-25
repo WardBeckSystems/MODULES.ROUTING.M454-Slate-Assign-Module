@@ -1,5 +1,5 @@
 # 1974 - M454 - Slate Module.jpg
-Wiki page: [M454](../../../PAGES/M454.md)
+Wiki page: [M454](../../../../PAGES/M454.md)
 
 
 - **Year:** 1974 (module estimate (labelled))
@@ -28,7 +28,7 @@ Hon
 
 ```json
 {
- "file": "Modules/ROUTING/M454/1974 - M454 - Slate Module.jpg",
+ "file": "Modules/ROUTING/M454/PHOTOS/1974 - M454 - Slate Module.jpg",
  "sha256": "0d979c028a2b329cd2f90059c06cf1dd1511af6376c5368320d675b4c1f3ac86",
  "kind": "module",
  "models": [

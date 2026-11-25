@@ -1,5 +1,5 @@
 # 1974 - M454 - wbsps - module - m454 - slate module_small.jpg
-Wiki page: [M454](../../../PAGES/M454.md)
+Wiki page: [M454](../../../../PAGES/M454.md)
 
 
 - **Year:** 1974 (module estimate (labelled))
@@ -14,7 +14,7 @@ Wiki page: [M454](../../../PAGES/M454.md)
 
 ```json
 {
- "file": "Modules/ROUTING/M454/1974 - M454 - wbsps - module - m454 - slate module_small.jpg",
+ "file": "Modules/ROUTING/M454/PHOTOS/1974 - M454 - wbsps - module - m454 - slate module_small.jpg",
  "sha256": "7d69e23290affca47ae62c8ecec2b47f726b23d5403dfb722f9174ffe35bd641",
  "kind": "module",
  "models": [

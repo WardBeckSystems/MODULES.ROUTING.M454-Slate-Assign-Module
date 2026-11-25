@@ -1,5 +1,5 @@
 # 1974 - M454 - P001 - Title Page.jpg
-Wiki page: [M454](../../../PAGES/M454.md)
+Wiki page: [M454](../../../../PAGES/M454.md)
 
 
 - **Year:** 1974 (module estimate (labelled))
@@ -34,7 +34,7 @@ WBS
 
 ```json
 {
- "file": "Modules/ROUTING/M454/1974 - M454 - P001 - Title Page.jpg",
+ "file": "Modules/ROUTING/M454/MANUALS/1974 - M454 - P001 - Title Page.jpg",
  "sha256": "c03ab11163cb56f3c9d9950d76131973a32767e400985dcc9128516781b6f52d",
  "kind": "module",
  "models": [
