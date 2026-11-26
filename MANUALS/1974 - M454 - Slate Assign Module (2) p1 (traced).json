@@ -1,0 +1,55 @@
+{
+ "drawing": "Modules/ROUTING/M454/MANUALS/1974 - M454 - Slate Assign Module (2).pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/c3d907c2b78909ec-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1534, 2000],
+  "mm": [331.2, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "5"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.0, 295.8, 431.8],
+ "outlines": {
+  "line": {"rings": 39, "straight": {"n": 1623, "mm": 5494.0}, "curved": {"n": 148, "mm": 337.4}},
+  "text": {"rings": 50, "straight": {"n": 1099, "mm": 4340.4}, "curved": {"n": 91, "mm": 183.6}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 18,
+  "lines": [
+   {"mm": [177.9, 400.3, 295.6, 431.0], "text": "[WsS]"},
+   {"mm": [178.8, 358.2, 299.7, 392.0], "text": "[~ssJ"},
+   {"mm": [178.8, 318.5, 300.1, 351.8], "text": "[~ssJ"},
+   {"mm": [178.8, 280.2, 300.1, 311.9], "text": "[~ss)"},
+   {"mm": [178.8, 238.6, 299.7, 271.9], "text": "[~ssJ"},
+   {"mm": [179.2, 198.2, 300.1, 232.0], "text": "[~ssJ"},
+   {"mm": [179.2, 158.7, 300.1, 192.5], "text": "[~ssJ"},
+   {"mm": [179.2, 118.5, 300.1, 152.4], "text": "[~ssJ"},
+   {"mm": [229.5, 95.6, 244.4, 103.6], "text": "\"'S/l"},
+   {"mm": [205.8, 87.0, 282.4, 93.0], "text": "SLAn ASSIGN MODULE"},
+   {"mm": [179.2, 39.1, 292.1, 72.9], "text": "[~ssJ"},
+   {"mm": [275.1, 64.3, 295.8, 73.2], "text": "ps"},
+   {"mm": [263.6, 53.1, 285.2, 64.4], "text": "BS"},
+   {"mm": [241.4, 30.9, 259.7, 38.1], "text": "tp"},
+   {"mm": [179.2, -1.3, 292.1, 33.0], "text": "[~ssJ"},
+   {"mm": [234.5, 24.0, 255.2, 30.9], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 331 × 432 mm, 1534 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–296 mm across, 0–432 mm up",
+  "- **Outlines:** line 39 rings, 1,623 straight (5,494 mm) / 148 curved (337 mm); text 50 rings, 1,099 straight (4,340 mm) / 91 curved (184 mm)",
+  "- **Words (OCR):** 18 in 16 lines: [WsS] · [~ssJ · [~ssJ · [~ss) · [~ssJ · [~ssJ · [~ssJ · [~ssJ · \"'S/l · SLAn ASSIGN MODULE · [~ssJ · ps"
+ ]
+}

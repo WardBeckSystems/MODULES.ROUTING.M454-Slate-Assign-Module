@@ -1,0 +1,69 @@
+{
+ "drawing": "Modules/ROUTING/M454/MANUALS/1974 - M454 - Slate Assign Module (2).pdf",
+ "page": 3,
+ "version": 1,
+ "trace": "_traces/c3d907c2b78909ec-p3.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1534, 2000],
+  "mm": [331.2, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "3", "pages": "5"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 14.9, 330.3, 431.2],
+ "outlines": {
+  "line": {"rings": 207, "straight": {"n": 2039, "mm": 2946.5}, "curved": {"n": 459, "mm": 736.9}},
+  "text": {"rings": 68, "straight": {"n": 574, "mm": 630.9}, "curved": {"n": 157, "mm": 233.9}}
+ },
+ "circles": [],
+ "boxes": [{"mm": [183.3, 373.2, 185.5, 378.6], "w": 2.2, "h": 5.3, "from": "ring"}],
+ "text": {
+  "words": 47,
+  "lines": [
+   {"mm": [5.4, 399.2, 49.2, 405.0], "text": "Module M.S."},
+   {"mm": [127.4, 399.0, 205.1, 404.7], "text": "SLATE ASSIGN MODULE"},
+   {"mm": [261.0, 398.6, 271.4, 404.3], "text": "ht."},
+   {"mm": [289.3, 398.6, 296.6, 404.3], "text": "of"},
+   {"mm": [313.7, 398.6, 331.6, 404.3], "text": "sh ts."},
+   {"mm": [139.7, 371.8, 196.0, 377.5], "text": "COMPONEN LI ST"},
+   {"mm": [30.0, 351.9, 53.5, 357.7], "text": "DESIGN"},
+   {"mm": [91.1, 351.5, 134.7, 357.2], "text": "DESCRIPTION"},
+   {"mm": [176.2, 351.5, 221.7, 357.2], "text": "MANUfACTURE"},
+   {"mm": [248.7, 351.5, 293.8, 357.2], "text": "PART NUM8ER"},
+   {"mm": [26.6, 338.3, 44.9, 344.1], "text": "-sw2."},
+   {"mm": [74.7, 338.1, 106.0, 343.9], "text": "ac Switc"},
+   {"mm": [184.2, 338.1, 212.4, 343.9], "text": "Schad ow"},
+   {"mm": [240.7, 338.1, 251.7, 343.9], "text": "was"},
+   {"mm": [256.9, 337.9, 283.9, 344.4], "text": "Ill OlD"},
+   {"mm": [74.7, 324.9, 114.2, 330.7], "text": "Switch Cap"},
+   {"mm": [75.1, 311.1, 113.6, 317.6], "text": "FM 28 OIA"},
+   {"mm": [144.0, 311.1, 151.8, 317.6], "text": "21"},
+   {"mm": [127.4, 311.1, 133.6, 317.1], "text": "Qt"},
+   {"mm": [184.2, 310.9, 212.7, 316.7], "text": "Sc adow"},
+   {"mm": [75.1, 297.7, 109.9, 303.5], "text": "FG 34 OI"},
+   {"mm": [127.4, 297.7, 137.3, 303.7], "text": "Qty"},
+   {"mm": [184.2, 297.7, 211.2, 303.5], "text": "5ch adow"},
+   {"mm": [30.9, 264.5, 40.6, 270.2], "text": "Mo."},
+   {"mm": [71.7, 264.5, 127.4, 270.2], "text": "Actio Switche"},
+   {"mm": [275.1, 64.3, 295.8, 73.2], "text": "ps"},
+   {"mm": [263.6, 53.1, 285.2, 64.4], "text": "BS"},
+   {"mm": [241.4, 30.9, 259.7, 38.1], "text": "tp"},
+   {"mm": [234.5, 24.0, 255.2, 30.9], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 331 × 432 mm, 1534 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–330 mm across, 15–431 mm up",
+  "- **Outlines:** line 207 rings, 2,039 straight (2,946 mm) / 459 curved (737 mm); text 68 rings, 574 straight (631 mm) / 157 curved (234 mm)",
+  "- **Closed boxes:** 1",
+  "- **Words (OCR):** 47 in 29 lines: Module M.S. · SLATE ASSIGN MODULE · ht. · of · sh ts. · COMPONEN LI ST · DESIGN · DESCRIPTION · MANUfACTURE · PART NUM8ER · -sw2. · ac Switc"
+ ]
+}

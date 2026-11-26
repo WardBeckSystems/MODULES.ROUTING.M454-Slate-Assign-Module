@@ -1,0 +1,59 @@
+{
+ "drawing": "Modules/ROUTING/M454/MANUALS/1974 - M454 - Slate Assign Module.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/81bd601d89309a52-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1534, 2000],
+  "mm": [331.2, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "5"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.0, 295.8, 431.8],
+ "outlines": {
+  "line": {"rings": 39, "straight": {"n": 1617, "mm": 5494.8}, "curved": {"n": 148, "mm": 336.3}},
+  "text": {"rings": 48, "straight": {"n": 1018, "mm": 4096.1}, "curved": {"n": 78, "mm": 161.9}},
+  "tb": {"rings": 2, "straight": {"n": 67, "mm": 247.4}, "curved": {"n": 10, "mm": 17.4}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 13,
+  "lines": [
+   {"mm": [189.8, 403.9, 284.3, 427.2], "text": "WBS"},
+   {"mm": [189.1, 363.6, 283.7, 387.3], "text": "WBS"},
+   {"mm": [188.0, 323.6, 284.1, 347.4], "text": "WBS"},
+   {"mm": [189.1, 284.1, 284.1, 307.4], "text": "WBS"},
+   {"mm": [189.8, 244.2, 284.3, 267.9], "text": "WBS"},
+   {"mm": [190.9, 203.2, 284.8, 227.4], "text": "WBS"},
+   {"mm": [190.0, 163.9, 285.0, 188.1], "text": "WBS"},
+   {"mm": [188.7, 124.4, 285.4, 148.1], "text": "WBS"},
+   {"mm": [228.9, 97.6, 247.2, 106.2], "text": "M454"},
+   {"mm": [205.1, 86.8, 226.7, 94.9], "text": "SLATE"},
+   {"mm": [229.5, 86.8, 283.5, 95.4], "text": "AssIGN MODULE"},
+   {"mm": [191.1, 45.3, 285.6, 68.6], "text": "WBS"},
+   {"mm": [190.9, 5.6, 285.9, 28.9], "text": "WBS"}
+  ]
+ },
+ "title_block": {
+  "mm": [181.5, 0.0, 292.5, 431.8],
+  "from": "title-block words (training set)",
+  "text": ["WBS", "WBS", "WBS", "WBS", "WBS", "WBS", "WBS", "WBS", "M454", "SLATE", "AssIGN MODULE", "WBS", "WBS"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 331 × 432 mm, 1534 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–296 mm across, 0–432 mm up",
+  "- **Outlines:** line 39 rings, 1,617 straight (5,495 mm) / 148 curved (336 mm); text 48 rings, 1,018 straight (4,096 mm) / 78 curved (162 mm); tb 2 rings, 67 straight (247 mm) / 10 curved (17.4 mm)",
+  "- **Words (OCR):** 13 in 13 lines: WBS · WBS · WBS · WBS · WBS · WBS · WBS · WBS · M454 · SLATE · AssIGN MODULE · WBS",
+  "- **Title block:** (182, 0)–(292, 432) mm: WBS · WBS · WBS · WBS · WBS · WBS · WBS · WBS · M454 · SLATE · AssIGN MODULE · WBS · WBS"
+ ]
+}
