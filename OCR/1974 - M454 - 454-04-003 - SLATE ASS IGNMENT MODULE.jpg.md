@@ -18,7 +18,7 @@ Wiki page: [M454](../../../../PAGES/M454.md)
 - **Outlines:** line 263 rings, 2,411 straight (10,508 mm) / 453 curved (1,165 mm); text 305 rings, 1,745 straight (3,054 mm) / 696 curved (1,671 mm)
 - **Closed boxes:** 49
 
-Every curve, box, word and wire group: [1974 - M454 - 454-04-003 - SLATE ASS IGNMENT MODULE (traced).json](../MECHANICAL/1974%20-%20M454%20-%20454-04-003%20-%20SLATE%20ASS%20IGNMENT%20MODULE%20(traced).json) (the CAD file: `1974 - M454 - 454-04-003 - SLATE ASS IGNMENT MODULE (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M454 - 454-04-003 - SLATE ASS IGNMENT MODULE (traced).json](../MECHANICAL/1974%20-%20M454%20-%20454-04-003%20-%20SLATE%20ASS%20IGNMENT%20MODULE%20%28traced%29.json) (the CAD file: `1974 - M454 - 454-04-003 - SLATE ASS IGNMENT MODULE (traced).dxf`).
 
 ## Full text
 

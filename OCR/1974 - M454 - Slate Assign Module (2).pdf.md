@@ -21,7 +21,7 @@ Wiki page: [M454](../../../../PAGES/M454.md)
 - **Outlines:** line 39 rings, 1,623 straight (5,494 mm) / 148 curved (337 mm); text 50 rings, 1,099 straight (4,340 mm) / 91 curved (184 mm)
 - **Words (OCR):** 18 in 16 lines: [WsS] · [~ssJ · [~ssJ · [~ss) · [~ssJ · [~ssJ · [~ssJ · [~ssJ · "'S/l · SLAn ASSIGN MODULE · [~ssJ · ps
 
-Every curve, box, word and wire group: [1974 - M454 - Slate Assign Module (2) p1 (traced).json](../MANUALS/1974%20-%20M454%20-%20Slate%20Assign%20Module%20(2)%20p1%20(traced).json) (the CAD file: `1974 - M454 - Slate Assign Module (2) p1 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M454 - Slate Assign Module (2) p1 (traced).json](../MANUALS/1974%20-%20M454%20-%20Slate%20Assign%20Module%20%282%29%20p1%20%28traced%29.json) (the CAD file: `1974 - M454 - Slate Assign Module (2) p1 (traced).dxf`).
 
 ### Page 2
 
@@ -32,7 +32,7 @@ Every curve, box, word and wire group: [1974 - M454 - Slate Assign Module (2) p1
 - **Words (OCR):** 111 in 87 lines: Module M454 · SLATE ASSIGN MOOULE · sht. · of · COMPONE NT LIST · DESIGN · DESCRIPTION · MANUFACTURE · PART NUMBER · CR1 · 010de · lN2
 - **Title block:** (235, 2)–(259, 114) mm: was · tp · ht
 
-Every curve, box, word and wire group: [1974 - M454 - Slate Assign Module (2) p2 (traced).json](../MANUALS/1974%20-%20M454%20-%20Slate%20Assign%20Module%20(2)%20p2%20(traced).json) (the CAD file: `1974 - M454 - Slate Assign Module (2) p2 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M454 - Slate Assign Module (2) p2 (traced).json](../MANUALS/1974%20-%20M454%20-%20Slate%20Assign%20Module%20%282%29%20p2%20%28traced%29.json) (the CAD file: `1974 - M454 - Slate Assign Module (2) p2 (traced).dxf`).
 
 ### Page 3
 
@@ -42,7 +42,7 @@ Every curve, box, word and wire group: [1974 - M454 - Slate Assign Module (2) p2
 - **Closed boxes:** 1
 - **Words (OCR):** 47 in 29 lines: Module M.S. · SLATE ASSIGN MODULE · ht. · of · sh ts. · COMPONEN LI ST · DESIGN · DESCRIPTION · MANUfACTURE · PART NUM8ER · -sw2. · ac Switc
 
-Every curve, box, word and wire group: [1974 - M454 - Slate Assign Module (2) p3 (traced).json](../MANUALS/1974%20-%20M454%20-%20Slate%20Assign%20Module%20(2)%20p3%20(traced).json) (the CAD file: `1974 - M454 - Slate Assign Module (2) p3 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M454 - Slate Assign Module (2) p3 (traced).json](../MANUALS/1974%20-%20M454%20-%20Slate%20Assign%20Module%20%282%29%20p3%20%28traced%29.json) (the CAD file: `1974 - M454 - Slate Assign Module (2) p3 (traced).dxf`).
 
 ### Page 4
 
@@ -54,7 +54,7 @@ Every curve, box, word and wire group: [1974 - M454 - Slate Assign Module (2) p3
 - **Dots (junctions):** 1
 - **Words (OCR):** 61 in 41 lines: III · iii · III · III · Sub 15 · Sub 16 · Sub 13 · Sub 14 · Sub 11 C3 Sub 12 · III · 04 Sub 10 · Sub
 
-Every curve, box, word and wire group: [1974 - M454 - Slate Assign Module (2) p4 (traced).json](../MANUALS/1974%20-%20M454%20-%20Slate%20Assign%20Module%20(2)%20p4%20(traced).json) (the CAD file: `1974 - M454 - Slate Assign Module (2) p4 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M454 - Slate Assign Module (2) p4 (traced).json](../MANUALS/1974%20-%20M454%20-%20Slate%20Assign%20Module%20%282%29%20p4%20%28traced%29.json) (the CAD file: `1974 - M454 - Slate Assign Module (2) p4 (traced).dxf`).
 
 ### Page 5
 
@@ -65,7 +65,7 @@ Every curve, box, word and wire group: [1974 - M454 - Slate Assign Module (2) p4
 - **Closed boxes:** 21; named: lUI. QH l'l(A.,.a GIC· tp Mil. 00II£$ ht
 - **Words (OCR):** 49 in 45 lines: es · "'54 · IS · (.R,l.- · IS · CR · J3 · CR IZ- · Il · RII.,- · CR IO- · 10
 
-Every curve, box, word and wire group: [1974 - M454 - Slate Assign Module (2) p5 (traced).json](../MANUALS/1974%20-%20M454%20-%20Slate%20Assign%20Module%20(2)%20p5%20(traced).json) (the CAD file: `1974 - M454 - Slate Assign Module (2) p5 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M454 - Slate Assign Module (2) p5 (traced).json](../MANUALS/1974%20-%20M454%20-%20Slate%20Assign%20Module%20%282%29%20p5%20%28traced%29.json) (the CAD file: `1974 - M454 - Slate Assign Module (2) p5 (traced).dxf`).
 
 ## Full text
 

@@ -35,7 +35,7 @@ Wiki page: [M454](../../../../PAGES/M454.md)
 - **Title block:** (279, 12)–(432, 86) mm: Inovkz RE DRAWN · ISSUE (DATE · REVISION · APP · WBS WARD-BECK · SYSTEMS · Nov[82 · ENG_ · M454 · SLATE · AssiGn · CKD: · MOpULE · APP · SCALE · ISSUE · 454 02-00|
 - **Wiring (first pass):** 50 connected wire groups from 445 runs, 11 dotted junctions; labelled ends: 380 mm → aFEEEEEEE, Ji, IV; 105 mm → aFEEEEEEE; 103 mm → Ji, IV; 98 mm → Ji, aFEEEEEEE; 38 mm → Ji
 
-Every curve, box, word and wire group: [1982 - 454-02-001 - SLATE ASSIGN MODULE - DRN D.N. NOV-82 - ISS 2 (traced).json](../SCHEMATICS/1982%20-%20454-02-001%20-%20SLATE%20ASSIGN%20MODULE%20-%20DRN%20D.N.%20NOV-82%20-%20ISS%202%20(traced).json) (the CAD file: `1982 - 454-02-001 - SLATE ASSIGN MODULE - DRN D.N. NOV-82 - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - 454-02-001 - SLATE ASSIGN MODULE - DRN D.N. NOV-82 - ISS 2 (traced).json](../SCHEMATICS/1982%20-%20454-02-001%20-%20SLATE%20ASSIGN%20MODULE%20-%20DRN%20D.N.%20NOV-82%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1982 - 454-02-001 - SLATE ASSIGN MODULE - DRN D.N. NOV-82 - ISS 2 (traced).dxf`).
 
 ## Full text
 
