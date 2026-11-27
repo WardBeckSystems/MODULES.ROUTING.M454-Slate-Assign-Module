@@ -1,17 +1,17 @@
-# M454 · Routing
+# M454 Slate Assign Module · Routing
 
 Ward-Beck Systems M454, 1974|7. Wiki page: [M454 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M454.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 9 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 8 |
 | [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 10 |
 | [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 6 |
 | [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 40 |
 | [PHOTOS/](PHOTOS/) | photographs of the module | 3 |
 | [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 4 |
-| [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 15 |
+| [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 14 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
 
@@ -44,8 +44,6 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 <table>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKbG54Wm1YZVhzQlU/view?resourcekey=0-EVl1lZrJVEouuEjCBJg9YA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKbG54Wm1YZVhzQlU&resourcekey=0-EVl1lZrJVEouuEjCBJg9YA" width="240" alt="1974 - M454 - 454-02-001 - DRAWN ENE.jpg"></a><br><sub>1974|7 · 454-02-001 - DRAWN ENE · <a href="SCHEMATICS/1974%20-%20M454%20-%20454-02-001%20-%20DRAWN%20ENE%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
-
-Not on Google Drive yet: `1982 - 454-02-001 - SLATE ASSIGN MODULE - DRN D.N. NOV-82 - ISS 2.png`
 
 ## Pinouts
 
