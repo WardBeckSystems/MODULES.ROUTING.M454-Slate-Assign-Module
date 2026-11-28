@@ -4,13 +4,12 @@ Ward-Beck Systems M454, 1974|7. Wiki page: [M454 on WBSps.ca](https://wardbecksy
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 8 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 10 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 6 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 40 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 3 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 4 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 7 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 11 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 5 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 39 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 2 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 3 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 14 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -58,8 +57,6 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 
 _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and rear views, strapping), and the pinout / connections drawings made from them. The module root `RTO.json` lists every contact._
 
-Not on Google Drive yet: `M454 - RTO-144 Connections.pdf`
-
 ## RTO-144 pinout
 
 21 contacts (P2). Every contact, with where it was read: [`RTO.json`](RTO.json).
@@ -91,7 +88,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1974 - M454 - 454-02-001 - DRAWN ENE.kicad_sch](KICAD/1974%20-%20M454%20-%20454-02-001%20-%20DRAWN%20ENE.kicad_sch)
 - [1982 - 454-02-001 - SLATE ASSIGN MODULE - DRN D.N. NOV-82 - ISS 2.kicad_sch](KICAD/1982%20-%20454-02-001%20-%20SLATE%20ASSIGN%20MODULE%20-%20DRN%20D.N.%20NOV-82%20-%20ISS%202.kicad_sch)
 - [M454.kicad_sym](KICAD/M454.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
