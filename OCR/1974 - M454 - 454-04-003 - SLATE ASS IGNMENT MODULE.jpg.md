@@ -1,5 +1,5 @@
 # 1974 - M454 - 454-04-003 - SLATE ASS IGNMENT MODULE.jpg
-Wiki page: [M454](../../../../PAGES/M454.md)
+Wiki page: [M454](../)
 
 
 - **Year:** 1974 (module estimate (labelled))

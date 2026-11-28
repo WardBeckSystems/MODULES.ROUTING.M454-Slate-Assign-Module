@@ -1,5 +1,5 @@
 # 1974 - M454 - Slate Assign Module (2).pdf
-Wiki page: [M454](../../../../PAGES/M454.md)
+Wiki page: [M454](../)
 
 
 - **Year:** 1974 (module estimate (labelled))

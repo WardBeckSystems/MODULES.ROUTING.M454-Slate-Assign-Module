@@ -1,6 +1,6 @@
 # M454 Slate Assign Module · Routing
 
-Ward-Beck Systems M454, 1974|7. Wiki page: [M454 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M454.html)
+Ward-Beck Systems M454, 1974|7. Wiki page: [M454 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.ROUTING.M454-Slate-Assign-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|
